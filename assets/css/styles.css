@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&family=Merriweather:wght@300&family=Playfair+Display:ital@1&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400&family=Roboto+Slab:wght@200&display=swap');
+
+nav{
+    background-color: aquamarine;
+}
+
+.nav-link{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+}
